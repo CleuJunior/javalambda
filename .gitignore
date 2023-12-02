@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/java,maven,intellij+all,intellij+iml,visualstudiocode,visualstudio,eclipse
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,maven,intellij+all,intellij+iml,visualstudiocode,visualstudio,eclipse
 
+### AWS Lambda ###
+.aws-sam/
+
 ### Eclipse ###
 .metadata
 bin/
