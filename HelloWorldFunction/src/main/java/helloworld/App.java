@@ -2,7 +2,7 @@ package helloworld;
 
 public class App {
 
-    public String hello(){
-        return "Cleonildo Junior  ta Aprendendo Lambdas, parece bem promissor";
+    public String hello(String name){
+        return "Olá meu nome é " + name ;
     }
 }
